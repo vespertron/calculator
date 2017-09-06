@@ -13,6 +13,13 @@ input {
 	border-style:none;
 }
 
+input[name="display"] {
+	width: 675px;
+	height: 100px;
+	text-align: center;
+	background-color: #000000;
+}
+
 #myform {
 	margin-left:225px;
 	margin-top:20px;
@@ -24,4 +31,13 @@ h1 {
 	font-size:80px;
 	margin-right:150px;
 	margin-top:20px;
+}
+
+.main-footer{
+	text-align: center;
+}
+
+.information-line span{
+	margin-left: 5px;
+	margin-right: 5px;
 }
