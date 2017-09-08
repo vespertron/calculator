@@ -1,0 +1,20 @@
+$(function() {
+  $(".fade1").hide(0);
+  $(".fade2").hide(0);
+  $(".fade3").hide(0);
+  $(".fade4").hide(0);
+  $(".fade5").hide(0);
+  $(".fade6").hide(0);
+  $(".fade7").hide(0);
+  $(".fade8").hide(0);
+  $(".fade9").hide(0);
+  $(".fade1").fadeIn(500);
+  $(".fade2").fadeIn(600);
+  $(".fade3").fadeIn(800);
+  $(".fade4").fadeIn(1000);
+  $(".fade5").fadeIn(1200);
+  $(".fade6").fadeIn(1600);
+  $(".fade7").fadeIn(2000);
+  $(".fade8").fadeIn(2400);
+  $(".fade9").fadeIn(2800);
+});
